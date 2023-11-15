@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Coding2/PatrolBreach/Content/SecurityPatrol.umap",
+				"C:/Coding2/PatrolBreach/Content/BPCamera.uasset",
+				"C:/Coding2/PatrolBreach/Content/BP_Guard.uasset",
 				"D:/DrivingSim/PatrolBreach/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/DrivingSim/PatrolBreach/Content/SecurityPatrol.umap",
 				"D:/DrivingSim/PatrolBreach/Content/BP_Guard.uasset",
