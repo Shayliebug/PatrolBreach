@@ -5,14 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Coding2/PatrolBreach/Content/SecurityPatrol.umap",
-				"C:/Coding2/PatrolBreach/Content/BPCamera.uasset",
-				"C:/Coding2/PatrolBreach/Content/BP_Guard.uasset",
 				"D:/DrivingSim/PatrolBreach/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/DrivingSim/PatrolBreach/Content/SecurityPatrol.umap",
 				"D:/DrivingSim/PatrolBreach/Content/BP_Guard.uasset",
 				"D:/DrivingSim/PatrolBreach/Content/BPCamera.uasset",
-				"D:/DrivingSim/PatrolBreach/Content/_GENERATED/dad04/Box_5AD8AF83.uasset"
+				"D:/DrivingSim/PatrolBreach/Content/_GENERATED/dad04/Box_5AD8AF83.uasset",
+				"D:/DrivingSim/PatrolBreach/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Coding2/PatrolBreach/Content/SecurityPatrol.umap",
+				"C:/Coding2/PatrolBreach/Content/BPCamera.uasset",
+				"C:/Coding2/PatrolBreach/Content/BP_Guard.uasset"
 			]
 		}
 	]
